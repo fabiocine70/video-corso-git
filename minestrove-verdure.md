@@ -5,3 +5,6 @@ Ingredienti
 Cipolle
 Patate
 Carote
+zucchine
+peperoni
+fagioli
